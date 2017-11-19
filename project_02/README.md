@@ -5,8 +5,8 @@
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 
 * ![wp_20171117_23_24_10_pro](https://github.com/spkerry/liftoff-assignments/blob/master/project_02/WP_20171117_23_24_10_Pro.jpg)
-* ![wp_20171117_23_24_22_pro](https://github.com/spkerry/liftoff-assignments/blob/master/project_02/wp_20171117_23_24_22_pro.jpg)
-* ![wp_20171117_23_24_31_pro](https://github.com/spkerry/liftoff-assignments/blob/master/project_02/wp_20171117_23_24_31_pro.jpg)
+* ![wp_20171117_23_24_22_pro](https://github.com/spkerry/liftoff-assignments/blob/master/project_02/WP_20171117_23_24_22_Pro.jpg)
+* ![wp_20171117_23_24_31_pro](https://github.com/spkerry/liftoff-assignments/blob/master/project_02/WP_20171117_23_24_31_Pro.jpg)
 
 ## Project Tracker
 
