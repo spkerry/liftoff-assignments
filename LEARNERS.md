@@ -2,7 +2,7 @@
 
 ## Section \#1: St. Louis (November 2017)
 
-[Kerry, Sean (@spkerry)](https://github.com/spkerry/liftoff)
+[Kerry, Sean (@spkerry)](https://github.com/spkerry/liftoff-assignments)
 [DENNIS, LISETTE (@ELLEDENNIS](https://github.com/ELLEDENNIS/liftoff)
 [Wayne, Darrell (@GITHUB_USERNAME)](https://github.com/dwayne8877/liftoff)
 [MATTINGLY, KERRI (@GITHUB_kerrimattingly)](https://github.com/kerrimattingly/liftoff)
@@ -10,7 +10,7 @@
 [Abbott, Nicholas (@crystalcoder)](https://github.com/crystalcoder/liftoff-assignments)
 [BODASINGI, VASANTHI (@VasanthiBodasingi)](https://github.com/VasanthiBodasingi/liftoff-assignments)
 [Thirugnanam, Kokila (@KokilaGit)](https://github.com/KokilaGit/liftoff)
-[McManemin, Justin (@gitschwiftyyy)] (https://github.com/gitschwiftyyy/liftoff-assignments) 
+[McManemin, Justin (@gitschwiftyyy)] (https://github.com/gitschwiftyyy/liftoff-assignments)
 [Snyder, Lonny (@lsnyder1)](https://github.com/lsnyder1/liftoff)
 [Guruge, Praveen (@pcginc)](https://github.com/pcginc/liftoff-assignments)
 [Wittwer, Katy (@KatyWittwer)](https://github.com/KatyWittwer/liftoff-assignments.git)
